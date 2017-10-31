@@ -1,0 +1,12 @@
+{
+    "name": "datlt/calculator",
+    "description": "test calculator package laravel",
+    "authors": [
+        {
+            "name": "Victor.Dat",
+            "email": "datlt@shipandplay.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
